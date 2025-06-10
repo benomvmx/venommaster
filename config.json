@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "9aa19304-0860-4691-894b-e28b2b39e18a",
+            "id": "e83dbce6-35b1-4ca5-867b-699ca41f7dfd",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/EULM75f6"
+          "path": "/rakA3U5u"
         }
       }
     }
